@@ -29,7 +29,7 @@ AI Trip Planner is an intelligent travel planning application built with React.j
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/ai-trip-planner.git
+    git clone https://github.com/hirenkukadiya3073/ai-trip-planner.git
     cd ai-trip-planner
     ```
 
@@ -73,6 +73,16 @@ AI Trip Planner is an intelligent travel planning application built with React.j
 
 ## Screenshots
 
+![Screenshot 2024-10-28 130939](https://github.com/user-attachments/assets/fb7f1dd7-3543-4c4d-a7c1-64ae8092dc35)
+
+taking inputs from user 
+![Screenshot 2024-10-28 131814](https://github.com/user-attachments/assets/39822bce-3d71-41c2-a64c-3ac43387777a)
+![Screenshot 2024-10-28 131526](https://github.com/user-attachments/assets/6fdc34a1-baae-464a-b0ea-8adf89ec440e)
+
+generated trip
+![Screenshot 2024-10-28 131939](https://github.com/user-attachments/assets/fef118f7-8e21-4db1-bdca-583c6f175c57)
+![Screenshot 2024-10-28 132002](https://github.com/user-attachments/assets/90d5fdb8-f64d-4664-a571-b343e5c9783a)
+![Screenshot 2024-10-28 132019](https://github.com/user-attachments/assets/9917b1a1-3553-4b26-abb5-4a96827285b4)
 
 ## Contributing
 
