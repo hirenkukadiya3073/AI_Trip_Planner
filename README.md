@@ -77,14 +77,17 @@ Geospatial Travel Companion is an intelligent travel planning application built 
 
 
 taking inputs from user 
+
 ![image](https://github.com/user-attachments/assets/3e134b3a-1b1e-4293-b9e1-fe3ddba57d4f)
 
 
 generated trip
+
 ![image](https://github.com/user-attachments/assets/636efc3b-5ee7-4e49-8590-12bbdf008254)
 ![image](https://github.com/user-attachments/assets/0870e62a-948b-46d3-b1ee-09d9f3a83a04)
 
-trip hitory
+trip history
+
 ![image](https://github.com/user-attachments/assets/cfb6306b-1f7c-4ba7-9733-6a636068a524)
 ![image](https://github.com/user-attachments/assets/09f8fa0a-c397-408e-835e-0b452ac9f5a8)
 
